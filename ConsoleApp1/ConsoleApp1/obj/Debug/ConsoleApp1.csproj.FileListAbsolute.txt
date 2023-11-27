@@ -1,0 +1,7 @@
+F:\mphasis\practice projects\3rd project\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\mphasis\practice projects\3rd project\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\mphasis\practice projects\3rd project\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\mphasis\practice projects\3rd project\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+F:\mphasis\practice projects\3rd project\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\mphasis\practice projects\3rd project\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\mphasis\practice projects\3rd project\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
